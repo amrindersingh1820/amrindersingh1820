@@ -7,7 +7,7 @@ Currently, he is actively exploring LLM orchestration, AI agents, Retrieval-Augm
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrinder-singh-7629b9268/)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/amrinder-singh-7629b9268/)
 
 
 # 💻 Tech Stack:
